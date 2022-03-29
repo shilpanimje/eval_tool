@@ -6,7 +6,7 @@ MarkupSafe==1.1.1
 Werkzeug==0.15.2
 flask_sqlalchemy==2.4.0
 apscheduler==3.6.0
-paramiko==2.4.2
+paramiko==2.10.1
 pandas==0.24.2
 pyVim==2.0.24
 pyVmomi==6.7.1.2018.12
